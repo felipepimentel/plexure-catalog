@@ -17,9 +17,9 @@ Plexure Catalog is a modern platform to explore, test, and integrate APIs. With 
 
 Here are some screenshots of Plexure Catalog in action:
 
-![Screen 1](screen1.png)
-![Screen 2](screen2.png)
-![Screen 3](screen3.png)
+![Screen 1](assets/screen1.png)
+![Screen 2](assets/screen2.png)
+![Screen 3](assets/screen3.png)
 
 ## Installation
 
